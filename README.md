@@ -17,3 +17,6 @@ IRIS Flower Dataset Classification Machine Learning Project
 
 K Nearest Neighbors Algorithm Implementation on Breast Cancer Dataset
 <br> https://github.com/Pragna235/Classification-Models/blob/main/K%20Nearest%20Neighbors%20Algorithm%20Deployment%20on%20Breast%20Cancer%20Dataset.py
+
+K Nearest Neighbors Classification Algorithm on IRIS Dataset (100% Accuracy)
+<br> https://github.com/Pragna235/Classification-Models/blob/main/K%20nearest%20Neighbor%20Classification%20Algorithm%20on%20IRIS%20Dataset.py
