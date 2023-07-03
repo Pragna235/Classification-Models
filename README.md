@@ -14,3 +14,6 @@ MNIST Digit Classification using Support Vector Machines (SVM)
 IRIS Flower Dataset Classification Machine Learning Project 
 <br> SVM, Logistic Regression, Linear Discriminant Analysis are used
 <br> https://github.com/Pragna235/Classification-Models/blob/main/Iris%20Flower%20Classification%20ML%20Project.py
+
+K Nearest Neighbors Algorithm Implementation on Breast Cancer Dataset
+<br> https://github.com/Pragna235/Classification-Models/blob/main/K%20Nearest%20Neighbors%20Algorithm%20Deployment%20on%20Breast%20Cancer%20Dataset.py
